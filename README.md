@@ -1,0 +1,2 @@
+# CODE_CHALLENGE_3
+This is a code used to make an online ticket booking system that can also keep track of the number of tickets left and out puts "Sorry, this Movie is sold out!" when the tickets are over. 
